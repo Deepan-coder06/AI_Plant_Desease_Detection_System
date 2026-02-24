@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64153384792",
+    "project_id": "farmdoctorai-1dd0f",
+    "storage_bucket": "farmdoctorai-1dd0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64153384792:android:9ff18cef529b46c3c9d72d",
+        "android_client_info": {
+          "package_name": "com.example.leaf_guard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjbs1vRUWEALrha4YaOhG6w-CUruJkIDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
